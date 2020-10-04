@@ -1,2 +1,2 @@
-# xovetic-lba-registry
-Xovetic Workshop: service storing all the league teams information
+# XoveTIC LBA Registry
+XoveTIC Workshop: registry service based on Netflix OSS Eureka
